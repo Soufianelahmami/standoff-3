@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HP8IvBs.jpg"},
+  {"desc2":"The gaming industry has witnessed tremendous growth in recent years, particularly in the realm of mobile gaming","photo2":"https://iili.io/HP8I8EG.jpg"},
+  {"desc3":"One genre that has thrived on mobile devices is first-person shooters (FPS). Standoff 3, developed by Axlebolt, stands out as a prominent example of a mobile FPS game that has captivated millions of players worldwide","photo3":"https://iili.io/HP8IOhX.jpg"},
+  {"desc4":"This article explores the evolution of Standoff 3, its gameplay mechanics, features, and its impact on the mobile gaming landscape.","photo4":"https://iili.io/HP8IeQn.jpg"},
+  {"desc5":"To understand the significance of Standoff 3, it is important to delve into the history of mobile FPS games. In the early days of mobile gaming","photo5":"https://iili.io/HP8IrYl.jpg"},
+  {"descd":"FPS titles were largely considered to be inferior to their console and PC counterparts due to hardware limitations and control constraints","photod":"https://iili.io/HP8Ig24.jpg"}
    ]
  
 }
